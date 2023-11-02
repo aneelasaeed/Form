@@ -1,0 +1,18 @@
+body{
+  background-image: url('pexels-henry-&-co-1939485.jpg');
+  background-size: cover;
+}
+
+.nav-item{
+    font-weight: 700;
+    padding-block: 15px;
+    padding-inline: ;
+
+
+}
+.nav-item :hover{
+    background-color: green;
+    color: antiquewhite !important;
+
+}
+ 
